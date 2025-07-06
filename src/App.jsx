@@ -48,7 +48,8 @@ function App() {
       <section id="home" className="bg-blue-50 py-24 text-center">
         <h2 className="text-4xl font-bold mb-4">Welcome to Crown Caregivers Inc.</h2>
         <p className="text-lg text-gray-600 max-w-xl mx-auto">
-          Caring with Dignity. Supporting with Heart.
+          idk jesmond say what would be our quote
+
         </p>
       </section>
 
@@ -56,7 +57,6 @@ function App() {
       <section id="about" className="py-20 bg-white text-center">
         <h3 className="text-3xl font-semibold mb-4">About Us</h3>
         <p className="max-w-2xl mx-auto text-gray-600">
-
           Based in Las Vegas, Crown Caregivers Inc. is a licensed personal care agency dedicated to preserving independence and dignity.
           Our mission is to provide safe, compassionate support through personalized, in-home assistance.
         </p>
@@ -85,7 +85,7 @@ function App() {
       <section id="contact" className="py-20 bg-white text-center">
         <h3 className="text-3xl font-semibold mb-4">Contact Us</h3>
         <p className="text-gray-600 mb-6">Let’s talk about how we can help you.</p>
-        <a href="mailto:contact@crowncare.com" className="inline-block px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
+        <a href="mailto:tnairarunjith@gmail.com" className="inline-block px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
           Send Email
         </a>
       </section>
