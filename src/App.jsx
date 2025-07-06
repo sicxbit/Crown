@@ -85,7 +85,7 @@ function App() {
       <section id="contact" className="py-20 bg-white text-center">
         <h3 className="text-3xl font-semibold mb-4">Contact Us</h3>
         <p className="text-gray-600 mb-6">Let’s talk about how we can help you.</p>
-        <a href="mailto:contact@company.com" className="inline-block px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
+        <a href="mailto:contact@crowncare.com" className="inline-block px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
           Send Email
         </a>
       </section>
